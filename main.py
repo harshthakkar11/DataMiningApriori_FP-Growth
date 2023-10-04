@@ -15,17 +15,7 @@
     "id": "o0YH1s5WmBy-"
    },
    "source": [
-    "## Student Details \n",
-    "\n",
-    "**Student Name and ID:**\n",
-    "Harsh Jitendra Thakkar \n",
-    "UTA ID: 1001996152\n",
-    "\n",
-    "**Group members name and ID :-**\n",
-    "Team 23 --\n",
-    "Darshan Subodhbhai Savaliya (1002030998),\n",
-    "Harsh Jitendra Thakkar      (1001996152),\n",
-    "Avish Nitinbhai Modi.       (1002069301)"
+
    ]
   },
   {
